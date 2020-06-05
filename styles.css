@@ -1,0 +1,47 @@
+p {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 10px;
+  }
+
+h3 {
+ color:rgb(14, 108, 170);
+ text-shadow:.25px .5px cornflowerblue;
+}
+
+h2 {
+  color: rgb(19,19, 148);
+}
+
+img {
+   padding-top: 0px;
+  padding-right: 30px;
+  padding-bottom: 0px;
+  padding-left: 80px;
+}
+
+#purpleJoy {
+  color:purple;
+ text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 200%;
+ 
+  }
+
+h1 {
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 200%;
+color: darkslateblue;
+}
+
+footer {
+   padding-top: 0px;
+  padding-right: 30px;
+  padding-bottom: 0px;
+  padding-left: 80px;
+}
+
+article {
+  background-color:rgba(211, 211, 211, 0.39);
+}
